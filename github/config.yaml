@@ -1,22 +1,7 @@
 version: 1
 source: github
 pullRequests:
-  repositories:
-    - TomMkV/carrie-hawker-style
-    - TomMkV/ctxpipe-context-slack
-    - TomMkV/ctxpipe-context1111111
-    - TomMkV/ctxpipe-context2
-    - TomMkV/ctxpipe-context2323232
-    - TomMkV/ctxpipe-context3
-    - TomMkV/ctxpipe-context4
-    - TomMkV/ctxpipe-context555
-    - TomMkV/ctxpipe-context666
-    - TomMkV/ctxpipe-contexttom-test-3354
-    - TomMkV/docs
-    - TomMkV/dss
-    - TomMkV/homepage
-    - TomMkV/markr
-    - TomMkV/stillwood
+  repositories: []
   states:
     - merged
   includeDrafts: false
